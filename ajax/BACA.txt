@@ -1,0 +1,3 @@
+copy di xampp/htdocs
+run localhost/poling
+atau ipserver/poling
